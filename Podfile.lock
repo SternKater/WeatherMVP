@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.7.1)
+  - MBProgressHUD (1.2.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - R.swift (7.3.2)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.2.0)
+  - Moya (~> 15.0)
+  - R.swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBProgressHUD
+    - Moya
+    - R.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+
+PODFILE CHECKSUM: 12f1d945a6c463ef402157362972799c7cd38f56
+
+COCOAPODS: 1.11.3
